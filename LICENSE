@@ -1,13 +1,483 @@
-Copyright (c) 2025 Dipankar Boruah
+PROPRIETARY LICENSE — VISUAL & BRAND ASSETS
+=============================================
+LICENSE VERSION 2.0 — Effective Date: February 14, 2026
 
-All Rights Reserved.
+Copyright (c) 2025-present Dipankar Boruah. All rights reserved.
 
-This repository may contain proprietary visual assets, including but not limited to
-application icons, logos, and branding materials (“Brand Assets”).
+This license ("License") governs all files, materials, and content contained
+within this repository ("Repository"), including any files added to it at any
+point in the future, without the need for amendment or update to this License.
 
-You are NOT granted permission to copy, modify, redistribute, sublicense, or use
-these Brand Assets for any purpose without prior written consent from the copyright holder.
+By accessing, viewing, downloading, forking, cloning, or otherwise interacting
+with this Repository or any of its contents, you expressly acknowledge that you
+have read, understood, and agree to be bound by all terms of this License. If
+you have forked, cloned, or downloaded any content from this Repository before
+reading this License, you must either comply with all terms herein or delete
+all obtained copies within forty-eight (48) hours of first viewing this License.
 
-The Brand Assets are provided solely for use in connection with PureMusic & AudiFlo
-as distributed by Dipankar Boruah. Any unauthorized use of the Brand Assets,
-including use in other apps, services, or products, is strictly prohibited.
+
+1. DEFINITIONS
+--------------
+
+"Brand Assets" means every file in this Repository, at any point in time, past,
+present, or future, including but not limited to: logos, icons, images,
+illustrations, graphics, animations, videos, audio marks, design mockups,
+typography specimens, color palettes, style guides, and any other visual or
+multimedia material, in any file format (including but not limited to PNG, SVG,
+JPG, JPEG, WEBP, GIF, MP4, MOV, PDF, AI, PSD, FIGMA, and any format not yet
+invented), regardless of the directory or sub-directory in which they reside.
+
+For avoidance of doubt, this License file itself and any plain-text README or
+CONTRIBUTING documentation files that contain no embedded media (including but
+not limited to base64-encoded images, inline SVG code, or embedded binary data)
+are excluded from the definition of Brand Assets. For files containing both
+excluded and included content (such as HTML files with inline SVGs, markdown
+files with embedded images, or documents with embedded media), this License
+applies to all Brand Asset portions therein, regardless of the file format or
+container.
+
+"Copyright Holder" means Dipankar Boruah.
+
+"Authorized Contributor" means any person who has received express, documented,
+written permission from the Copyright Holder to add materials to this
+Repository. Acceptance of a pull request or merge does not, by itself,
+establish a person as an Authorized Contributor for any purpose beyond that
+specific contribution.
+
+"Associated Products" means the products, applications, services, and brands
+currently or in the future created, owned, operated, or licensed by the
+Copyright Holder — whether directly or through affiliates, licensees, or
+authorized partners — including but not limited to: AudiFlo, PureMusic, ZrotA,
+Zrota Group, and any successor, variant, derivative, or future product names,
+services, or brands.
+
+"Bona Fide Editorial Use" means use by journalists or media outlets that
+maintain a verifiable publication history of at least one (1) year, for the
+purpose of factual news reporting, product reviews, or critical analysis. This
+includes established news organizations, credentialed press members, and
+independent journalists with a demonstrable body of published work. It does not
+include commercial aggregation sites, image galleries, asset libraries,
+clickbait content, social media re-posts, or any use whose primary purpose is to
+display or redistribute Brand Assets rather than to provide original editorial
+commentary.
+
+"Written Authorization" means a formal document or email issued by the Copyright
+Holder from the designated contact address listed in §19 that explicitly
+identifies: (i) the specific Brand Asset(s) being licensed — either by
+individual file name/path or by clearly defined category (e.g., "all icons in
+the /social/ directory"); (ii) the permitted scope, purpose, and duration of
+use; and (iii) a reference to this License. Written Authorization includes
+traditional signed documents and electronic signatures compliant with applicable
+e-signature laws, but excludes informal communications such as casual emails,
+text messages, chat messages, social media posts, or verbal statements.
+
+
+2. COPYRIGHT DECLARATION
+------------------------
+
+The Copyright Holder is the original author and sole owner of all Brand Assets
+in this Repository. These works are original creative works protected under:
+
+  (a) The Copyright Act, 1957 (India), as amended;
+  (b) The Berne Convention for the Protection of Literary and Artistic Works,
+      providing automatic copyright protection in all 180+ member nations; and
+  (c) All other applicable international intellectual property treaties,
+      including the WIPO Copyright Treaty and the TRIPS Agreement.
+
+Copyright subsists automatically upon creation of each work. No registration,
+notice, or formality is required for copyright to attach, though this License
+serves as an express declaration of rights.
+
+The Copyright Holder also asserts all moral rights in the Brand Assets as
+provided under Section 57 of the Copyright Act, 1957 (India) and equivalent
+provisions under the laws of other jurisdictions, including but not limited to
+the right of attribution (paternity) and the right against distortion,
+mutilation, or other modification prejudicial to the Copyright Holder's honor
+or reputation. These moral rights are perpetual, inalienable, and survive any
+assignment or transfer of economic rights. Violations of moral rights are
+subject to the enforcement provisions of §7.
+
+NOTE: This License protects the visual artistic expression embodied in the Brand
+Assets — the specific designs, illustrations, color arrangements, and graphical
+compositions. Copyright protection applies to the artwork itself, independent of
+any product names or word marks depicted therein.
+
+
+3. AUTOMATIC COVERAGE & CONTRIBUTOR ASSIGNMENT
+-----------------------------------------------
+
+Any file, asset, or material added to this Repository at any time — whether by
+the Copyright Holder or any Authorized Contributor — is automatically and
+immediately covered by this License without requiring any amendment, update, or
+re-publication of this License. The act of adding a file to this Repository
+constitutes a declaration that the file is a Brand Asset and is subject to all
+terms herein.
+
+Any person who submits, uploads, or otherwise adds any material to this
+Repository (including via pull request, merge, or direct commit) thereby
+irrevocably assigns all copyright, title, and interest in such material to the
+Copyright Holder. By making such contribution, the contributor acknowledges and
+agrees that:
+
+  (a) They retain no rights to the contributed material;
+  (b) The material becomes the sole property of the Copyright Holder upon
+      submission;
+  (c) The opportunity to participate in and be publicly credited as a
+      contributor to the Repository constitutes adequate and sufficient
+      consideration for this assignment;
+  (d) Acceptance of a contribution does not grant the contributor any license
+      to use the Brand Assets beyond what is stated in this License;
+  (e) The contributor represents and warrants that they are the original
+      creator of, or have full legal authority to assign, all contributed
+      materials, and that such materials do not infringe upon the intellectual
+      property rights of any third party;
+  (f) The contributor agrees to indemnify and hold harmless the Copyright
+      Holder against any and all claims, damages, or expenses arising from
+      any breach of the warranty in subsection (e);
+  (g) The contributor represents that they are at least eighteen (18) years
+      of age or the age of majority in their jurisdiction, whichever is
+      greater. Contributions from minors are not accepted. If a minor
+      nevertheless contributes, no assignment shall take effect, and the
+      contributed material shall be removed promptly upon discovery; and
+  (h) The assignment in subsection (b) is conditional upon the warranty in
+      subsection (e) being true and accurate. If the warranty is breached,
+      no assignment shall be deemed to have occurred, and the contributed
+      material shall be removed immediately upon discovery of the breach.
+
+
+4. RESTRICTIONS
+---------------
+
+Unless expressly authorized by Written Authorization from the Copyright Holder,
+you may NOT:
+
+  (a) Copy, reproduce, or duplicate any Brand Asset, in whole or in part;
+  (b) Modify, adapt, alter, transform, or create derivative works based upon
+      any Brand Asset, in whole or in part;
+  (c) Distribute, publish, broadcast, transmit, or make available any Brand
+      Asset through any medium or channel;
+  (d) Sublicense, sell, lease, rent, lend, or otherwise transfer any Brand
+      Asset or rights therein to any third party;
+  (e) Use any Brand Asset in any product, service, application, website, or
+      project other than the Associated Products;
+  (f) Use any Brand Asset in connection with any product, service, or brand
+      that competes with or imitates the Associated Products;
+  (g) Use any Brand Asset to train, fine-tune, or otherwise input into any
+      artificial intelligence, machine learning, generative model, or text and
+      data mining system;
+  (h) Remove, obscure, or alter any copyright notice, watermark, metadata,
+      or attribution embedded in or associated with any Brand Asset;
+  (i) Display any Brand Asset in a manner that implies endorsement by, or
+      affiliation with, the Copyright Holder where none exists;
+  (j) Use any Brand Asset in any unlawful, defamatory, or misleading context;
+  (k) Frame, hotlink, embed, or deep-link to any Brand Asset hosted in this
+      Repository without authorization;
+  (l) Reverse-engineer, decompile, or extract source components from any
+      Brand Asset;
+  (m) Take screenshots, screen recordings, screen captures, or photographic
+      reproductions of any Brand Asset for any purpose other than Bona Fide
+      Editorial Use as expressly permitted under §5;
+  (n) Mint, tokenize, or otherwise associate any Brand Asset with any
+      non-fungible token (NFT), cryptocurrency, blockchain, decentralized
+      application, or virtual/augmented/mixed reality environment;
+  (o) Create private or public forks, mirrors, clones, or copies of this
+      Repository or any portion thereof for any purpose other than directly
+      contributing back to this Repository as described in §6;
+  (p) Mirror, re-host, or archive any Brand Asset on any other platform,
+      service, or server (including but not limited to GitLab, Bitbucket,
+      SourceForge, Archive.org, or any future platform); or
+  (q) Use any Brand Asset in any manner not expressly permitted by this
+      License, whether or not such manner is specifically enumerated above.
+
+
+5. LIMITED EDITORIAL LICENSE
+----------------------------
+
+Journalists and media outlets engaged in Bona Fide Editorial Use (as defined in
+§1) are granted a limited, non-exclusive, non-transferable, non-sublicensable,
+revocable license to use Brand Assets solely for news reporting, product
+reviews, commentary, and criticism related to the Associated Products, subject
+to ALL of the following conditions:
+
+  (a) The Brand Asset must be used in its original, unaltered form — no
+      modification, cropping (except proportional scaling), recoloring,
+      distortion, or overlaying is permitted;
+  (b) Clear and prominent attribution must be provided, stating:
+      "Logo/Image © Dipankar Boruah. Used for editorial purposes.";
+  (c) The use must not imply endorsement, sponsorship, or partnership with
+      the Copyright Holder;
+  (d) Use shall be limited to a maximum of three (3) Brand Assets per article,
+      review, or editorial piece, unless additional use is essential to the
+      editorial context and approved in Written Authorization by the Copyright
+      Holder;
+  (e) Screenshots or screen captures of Brand Assets are permitted solely
+      within the scope of this editorial license and subject to all conditions
+      herein; and
+  (f) This editorial license may be revoked by the Copyright Holder at any
+      time by sending written notice to the editorial contact address publicly
+      listed by the media outlet (or, if none, to any publicly available
+      contact). Revocation takes effect five (5) business days after confirmed
+      delivery of the notice. "Confirmed delivery" means any of the following:
+      (i) email with read receipt confirmation; (ii) email with manual reply
+      acknowledgment; (iii) registered or certified mail with proof of
+      delivery or tracking confirmation; or (iv) personal service with
+      signature.
+
+This editorial license does not extend to commercial use, advertising,
+merchandising, or promotional materials of any kind.
+
+
+6. NO IMPLIED LICENSE
+---------------------
+
+Nothing in this Repository — including its public visibility on GitHub or any
+hosting platform, the ability to view, fork, clone, or download the Repository,
+or any action by the Copyright Holder in sharing or referencing the Repository —
+shall be construed as granting any license, right, or permission to use the
+Brand Assets beyond what is expressly stated in this License.
+
+GitHub's Terms of Service may permit forking and cloning of public repositories
+for the purposes of contributing back to the original repository. Such
+permissions do NOT extend to any use of the Brand Assets outside the direct
+context of contributing to THIS Repository. If a fork is created for the purpose
+of contributing and the contribution is rejected, the contributor must delete the
+fork within forty-eight (48) hours of rejection. For purposes of this section,
+"rejected" means a contribution that has been (i) explicitly closed, declined,
+or marked with a negative disposition by the Copyright Holder or an authorized
+maintainer; or (ii) left without any substantive action for sixty (60)
+consecutive days after submission. The contributor shall not be liable for
+residual caches or Git history artifacts that cannot be deleted due to platform
+limitations beyond the contributor's control.
+
+Temporary, automatic browser caches or CDN caches created during normal viewing
+of this Repository are permitted as incidental technical reproductions for
+viewing purposes only. This does not grant any right to extract, redistribute,
+or use cached content beyond ephemeral viewing.
+
+Brand Assets remain subject to this License regardless of the platform, mirror,
+archive, or hosting service from which they are accessed or obtained. Ignorance
+of this License, or failure to observe it on a mirror or third-party site, does
+not constitute a defense against infringement.
+
+
+7. ENFORCEMENT & REMEDIES
+-------------------------
+
+The Copyright Holder reserves all rights to enforce this License to the fullest
+extent permitted by law, including but not limited to:
+
+  (a) Issuing cease-and-desist notices and DMCA takedown requests;
+  (b) Seeking temporary, preliminary, and permanent injunctive relief;
+  (c) Claiming actual damages, statutory damages, and/or disgorgement of
+      profits;
+  (d) Recovering reasonable attorney's fees, legal costs, and expenses;
+  (e) Pursuing criminal prosecution where applicable under the Copyright Act,
+      1957 (India) or equivalent laws in other jurisdictions; and
+  (f) Recovering costs and fees arising from any frivolous legal challenge
+      brought against this License or the Copyright Holder's rights thereunder.
+
+An infringer's lack of knowledge or intent shall not constitute a defense
+against enforcement.
+
+The Copyright Holder may, at sole discretion, provide written notice and a
+period of fourteen (14) calendar days to cure unintentional or good-faith
+breaches of this License before pursuing full legal remedies. This discretionary
+cure period does not create any obligation on the Copyright Holder to provide
+such notice, and the absence of such notice does not affect the Copyright
+Holder's right to immediate enforcement at any time.
+
+
+8. INDEMNIFICATION
+------------------
+
+Any person or entity that uses Brand Assets in violation of this License agrees
+to indemnify, defend, and hold harmless the Copyright Holder from and against
+all claims, damages, losses, costs, and expenses (including legal fees) arising
+from or related to such unauthorized use.
+
+
+9. SEVERABILITY
+---------------
+
+If any provision of this License is held to be invalid, illegal, or
+unenforceable by a court of competent jurisdiction, such provision shall be
+modified to the minimum extent necessary to make it enforceable, or if
+modification is not possible, shall be severed. The remaining provisions shall
+continue in full force and effect.
+
+
+10. NO WAIVER
+-------------
+
+The failure of the Copyright Holder to enforce any provision of this License at
+any time, or to exercise any right or remedy herein, shall not constitute a
+waiver of such provision, right, or remedy, nor shall it prevent the Copyright
+Holder from enforcing that or any other provision at any future time. No waiver
+shall be effective unless made in writing and signed by the Copyright Holder.
+
+
+11. GOVERNING LAW & JURISDICTION
+---------------------------------
+
+This License shall be governed by and construed in accordance with the laws of
+India. Any disputes arising under or in connection with this License shall be
+subject to the exclusive jurisdiction of the courts located in the city where
+the Copyright Holder maintains their principal place of residence or business
+in India.
+
+For infringements occurring outside India, the Copyright Holder reserves the
+right to elect to pursue claims and seek enforcement under the applicable laws
+of the jurisdiction where the infringement occurs, consistent with the Berne
+Convention and other applicable international treaties.
+
+
+12. TERM & SURVIVAL
+--------------------
+
+This License is effective as of the date of the first commit to this Repository
+and shall remain in effect for the full duration of copyright protection as
+provided by applicable law (including any extensions thereof).
+
+This License survives deletion, archival, transfer, or removal of the
+Repository. All copies of Brand Assets previously obtained, downloaded, forked,
+or cached remain permanently bound by the terms of the License version in effect
+at the time each copy was obtained (see §20 for version governance).
+
+
+13. ASSIGNMENT & SUCCESSORS
+---------------------------
+
+This License and all rights granted herein are personal to the Copyright Holder
+and may be assigned, transferred, or sublicensed by the Copyright Holder to any
+successor, heir, legal representative, or entity (including any company or
+organization formed by the Copyright Holder) without notice or consent. Such
+assignment shall not diminish or alter the protections of this License. No other
+party may assign any rights or obligations under this License.
+
+In the event of the Copyright Holder's death, legal incapacity, or bankruptcy,
+all rights under this License shall transfer automatically to the Copyright
+Holder's legal heirs, designated estate representatives, or appointed trustees,
+and all protections herein shall remain in full force and effect.
+
+
+14. DISCLAIMER OF WARRANTIES
+-----------------------------
+
+The Brand Assets are provided on an "AS IS" basis. The Copyright Holder makes no
+representations or warranties of any kind, express or implied, regarding the
+Brand Assets, including but not limited to warranties of merchantability,
+fitness for a particular purpose, or non-infringement of third-party rights.
+The Copyright Holder shall not be liable for any claims arising from authorized
+use of the Brand Assets by a permitted user.
+
+
+15. ACCESSIBILITY
+-----------------
+
+Notwithstanding the restrictions in §4, the use of Brand Assets by assistive
+technologies — including screen readers, text-to-speech engines, magnification
+tools, AI-powered accessibility assistants, and other accessibility aids — for
+individuals with disabilities is permitted solely for personal accessibility
+purposes. This exception extends to institutional accommodations provided by
+libraries, educational institutions, and accessibility service providers solely
+for the benefit of individuals with disabilities. For avoidance of doubt, this
+exception permits the use of AI-powered assistive technologies for personal
+accessibility, but does not authorize the use of Brand Assets to train
+general-purpose AI models or for any purpose beyond the individual's personal
+accessibility needs. This exception does not authorize storage, redistribution,
+or any commercial use.
+
+
+16. STATUTORY RIGHTS
+--------------------
+
+Nothing in this License is intended to, nor shall be construed to, limit or
+diminish any rights provided by applicable statutory exceptions, including fair
+use (as recognized under applicable law), fair dealing (as recognized under
+Indian Copyright Act, 1957 §52 or equivalent international provisions), or other
+copyright limitations and exceptions mandated by law. To the extent any
+provision of this License conflicts with a mandatory statutory right, the
+statutory right shall prevail, but only to the minimum extent required by law,
+and all other provisions of this License shall remain in full force and effect.
+
+
+17. LEGAL COMPULSION
+--------------------
+
+Disclosure or production of Brand Assets required by a valid court order,
+subpoena, government mandate, or other legal compulsion does not constitute a
+violation of this License, provided that the disclosing party: (a) promptly
+notifies the Copyright Holder of such requirement (unless prohibited by law from
+doing so); (b) makes reasonable efforts to request confidential treatment of the
+disclosed Brand Assets; and (c) limits disclosure to the minimum extent required
+by the legal obligation. Such compelled disclosure shall not give rise to any
+damages, penalties, or enforcement remedies under §7.
+
+
+18. ENTIRE AGREEMENT & ACCEPTANCE
+----------------------------------
+
+By accessing, viewing, downloading, forking, cloning, or otherwise interacting
+with this Repository or any of its contents, you expressly agree to all terms
+of this License.
+
+This License constitutes the entire agreement between the Copyright Holder and
+any user of this Repository regarding the Brand Assets and supersedes all prior
+or contemporaneous communications, representations, or agreements, whether
+written or oral. No amendment, modification, or waiver of any term shall be
+effective unless made in writing by the Copyright Holder.
+
+Permission to use Brand Assets is valid only when issued as a Written
+Authorization (as defined in §1). All permissions granted under Written
+Authorization are non-transferable and non-sublicensable unless explicitly
+stated otherwise in the Written Authorization itself.
+
+Recipients of Written Authorizations should verify authenticity by confirming
+through a secondary communication channel if there is any doubt about the origin
+of the authorization.
+
+
+19. CONTACT FOR PERMISSIONS
+----------------------------
+
+All inquiries regarding permissions, licensing, or authorized use of Brand
+Assets should be directed to the Copyright Holder:
+
+  Dipankar Boruah
+  Email: dipankar@zrota.us
+
+No permission is granted unless issued as a Written Authorization from the above
+contact address that satisfies the requirements of §1 and §18.
+
+
+20. AMENDMENTS & VERSIONING
+-----------------------------
+
+The Copyright Holder reserves the right to modify, update, or replace this
+License at any time. The most current version of this License shall always be
+the version present in the Repository and shall supersede all prior versions.
+
+Each download, fork, clone, or other acquisition of Brand Assets is governed by
+the License version in effect at the time of that acquisition. Updated License
+terms apply only to: (i) Brand Assets obtained after the effective date of the
+updated License; and (ii) any new access, download, fork, or clone of the
+Repository made after the update. Continued interaction with the Repository
+after a License update constitutes acceptance of the updated terms for all
+subsequent interactions.
+
+Use of automated systems (including CI/CD pipelines, bots, scrapers, or similar
+tools) to access this Repository constitutes acceptance of the current License
+terms by the person or entity operating such systems. System operators are
+responsible for ensuring awareness of and compliance with the current License
+terms.
+
+Users are solely responsible for reviewing the current License terms before any
+use of Brand Assets. The Copyright Holder will make reasonable efforts to note
+material amendments in the Repository (such as updating the version number and
+effective date in this License header), but absence of notice does not affect
+the validity of amendments.
+
+=============================================================================
+© 2025-present Dipankar Boruah. All rights reserved worldwide.
+Protected under the Berne Convention and applicable international treaties.
+=============================================================================
