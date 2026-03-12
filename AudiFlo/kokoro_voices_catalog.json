@@ -22,6 +22,9 @@
       "sample_rate": 24000,
       "size_bytes": 132120576,
       "archive_url": "https://github.com/k2-fsa/sherpa-onnx/releases/download/tts-models/kokoro-int8-multi-lang-v1_0.tar.bz2",
+      "archive_urls": [
+        "https://github.com/k2-fsa/sherpa-onnx/releases/download/tts-models/kokoro-int8-multi-lang-v1_0.tar.bz2"
+      ],
       "has_own_espeak": true,
       "speakers": [
         {"id": 0, "name": "af_heart", "lang": "en", "gender": "F", "accent": "American"},
