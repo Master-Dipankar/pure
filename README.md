@@ -1,2 +1,2 @@
 # pure
-icons host
+icons host 1
